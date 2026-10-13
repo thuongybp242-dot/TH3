@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Production builds
+build/
+dist/
+
+# Hardhat
+artifacts/
+cache/
+
+# Environment variables (Private keys)
+.env
+**/.env
